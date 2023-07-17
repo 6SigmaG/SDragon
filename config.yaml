@@ -1,0 +1,7 @@
+output_dir: C:\\Users\\1\\Desktop\\AI_Marketing\\output
+target_file: C:\\Users\\1\\Desktop\\AI_Marketing\\data\\target.txt
+db_file: keywords.db
+excel_file: keywords.xlsx
+error_log_file: C:\\Users\\1\\Desktop\\AI_Marketing\\output\\error.txt
+threads: 16
+timeout: 3
